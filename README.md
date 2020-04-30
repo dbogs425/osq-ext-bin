@@ -34,7 +34,7 @@ This additional state of the Windows endpoint is exported by means of following 
 - win_dns_response_events 
 - win_epp_table
 - win_file_events   
-- win_file_timestamp_events
+- win_file_timestomp_events
 - win_http_events 
 - win_image_load_events 
 - win_image_load_process_map
